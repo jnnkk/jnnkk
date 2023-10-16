@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=CECEF6&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2EFEF7&height=150&section=header" />
 
 <h1 align="center">jnnkk</h1>
 
@@ -8,7 +8,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jnnkk)](https://solved.ac/jnnkk/)
 
-# Skills
+<h1 align="center">Skills</h1>
 ### Platforms & Languages
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -26,7 +26,7 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=CECEF6&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2EFEF7&height=150&section=footer" />
 <!--
 **jnnkk/jnnkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
