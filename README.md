@@ -1,7 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=CECEF6&height=150&section=header" />
 
+# jnnkk
 
-[![SJY's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnnkk)](https://github.com/anuraghazra/github-readme-stats)
+![jnnkk's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnnkk&hide=contribs,prs&show_icons=true&theme=burfy)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jnnkk)](https://solved.ac/jnnkk/)
 
