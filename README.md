@@ -2,7 +2,7 @@
 
 # jnnkk
 
-![jnnkk's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnnkk&hide=contribs,prs&show_icons=true&theme=burfy)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jnnkk&theme=blueberry&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jnnkk)](https://github.com/anuraghazra/github-readme-stats)
 
