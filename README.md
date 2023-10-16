@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=CECEF6&height=150&section=header" />
 
-<div align="center"> #jnnkk</div>
+<h1 align="center">jnnkk</h1>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jnnkk&theme=blueberry&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
