@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=wave&color=CECEF6&height=10px&section=header&text=SJY&fontSize=20px" />
+
 [![SJY's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnnkk)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jnnkk)](https://solved.ac/jnnkk/)
