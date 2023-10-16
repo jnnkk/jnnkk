@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=EFEFFB&height=150&section=header" />
 
 <h1 align="center">jnnkk</h1>
 
@@ -25,10 +25,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=EFEFFB&height=150&section=footer" />
 <!--
 **jnnkk/jnnkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
