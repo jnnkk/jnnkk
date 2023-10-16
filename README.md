@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=CECEF68&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=CECEF6&height=150&section=header" />
 
 
 [![SJY's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnnkk)](https://github.com/anuraghazra/github-readme-stats)
