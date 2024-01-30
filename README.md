@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=EFEFFB&height=150&section=header" />
 
 <h1 align="center">jnnkk</h1>
 
@@ -29,8 +28,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=EFEFFB&height=150&section=footer" />
 <!--
 **jnnkk/jnnkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
