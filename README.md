@@ -1,5 +1,5 @@
 
-<h1 align="center">jnnkk</h1>
+<h1 align="center">S.J.Y</h1>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jnnkk&theme=blueberry&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
