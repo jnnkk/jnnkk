@@ -15,11 +15,11 @@
 - **Languages**: Java, Python, JavaScript
 - **Frontend**: React.js, Vue.js
 - **Backend**: Spring Boot
-- **Database**: MySQL, Redis
-- **Tools**: Docker, Git/GitHub
+- **Database**: MySQL, PostgreSQL, Redis
+- **Infra**: Docker, Jenkins, Git/Github/Gitlab
 
 ## 🏆 Achievement
-- **SSAFY 삼성전자 네트워크 사업부 연계 프로젝트 수상(2위)** (2025)
+- **SSAFY 삼성전자 네트워크 사업부 연계 프로젝트 수상(2위)** (2025.10)
 - **SSAFY 1학기 프로젝트 최우수상(1위) 및 성적우수상(1위)** (2025.05)
 - **삼성 SW 역량테스트 B형(Pro)** (2025.03)
 - **제3회 SKKU 사범대학 AI교육 해커톤 대회 은상** (2023.09)
