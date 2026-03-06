@@ -9,14 +9,15 @@
 
 ## 🎓 Education
 - **성균관대학교** 컴퓨터교육과 학사 (2019.03 - 2025.02)
-- **삼성 청년 소프트웨어 AI 아카데미(SSAFY)** 13기 (2025.01 - 현재)
+- **삼성 청년 소프트웨어 AI 아카데미(SSAFY)** 13기 (2025.01 - 2025.12)
 
 ## 💻 Skill
 - **Languages**: Java, Python, JavaScript
 - **Frontend**: React.js, Vue.js
-- **Backend**: Spring Boot
+- **Backend**: Spring Boot, FastAPI
 - **Database**: MySQL, PostgreSQL, Redis
 - **Infra**: Docker, Jenkins, Git/Github/Gitlab
+- **AI**: RAG, Langchain, Qdrant, Milvus
 
 ## 🏆 Achievement
 - **SSAFY 삼성전자 네트워크 사업부 연계 프로젝트 수상(2위)** (2025.10)
