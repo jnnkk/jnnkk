@@ -13,8 +13,8 @@
 
 ## 💻 Skill
 - **Languages**: Java, Python, JavaScript
-- **Frontend**: React.js, Vue.js
 - **Backend**: Spring Boot, FastAPI
+- **Frontend**: React.js, Vue.js
 - **Database**: MySQL, PostgreSQL, Redis
 - **Infra**: Docker, Jenkins, Git/Github/Gitlab
 - **AI**: RAG, Langchain, Qdrant, Milvus
